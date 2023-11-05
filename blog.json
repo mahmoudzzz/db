@@ -6,5 +6,13 @@
   {
     "element": "p",
     "content": "Start typing here..."
+  },
+  {
+    "content": [
+      {
+        "element": "p",
+        "content": "Start typing here..."
+      }
+    ]
   }
 ]
