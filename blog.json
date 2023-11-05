@@ -1,0 +1,23 @@
+[
+  {
+    "article": [
+      {
+        "element": "h1",
+        "content": "The Art of Cooking Delicious Meals"
+      },
+      {
+        "element": "p",
+        "content": "In this article, we will explore the joys of cooking and how it can bring people together. Whether you're a seasoned chef or a beginner in the kitchen, there's something magical about preparing a delicious meal for yourself or your loved ones."
+      },
+      {
+        "element": "h2",
+        "content": "The Ingredients"
+      },
+      {
+        "element": "p",
+        "content": "To create a masterpiece in the kitchen, you need the right ingredients. Fresh vegetables, high-quality meats, and a variety of herbs and spices can turn an ordinary dish into something extraordinary."
+      }
+    ]
+  }
+
+]
