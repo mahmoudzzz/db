@@ -2,5 +2,9 @@
   {
     "element": "p",
     "content": "Start typing here..."
+  },
+  {
+    "element": "p",
+    "content": "Start typing here..."
   }
 ]
