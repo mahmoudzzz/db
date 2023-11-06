@@ -125,5 +125,14 @@
         ]
       }
     ]
+  },
+  {
+    "element": "custom",
+    "content": [
+      {
+        "element": "p",
+        "content": "Start typing here..."
+      }
+    ]
   }
 ]
