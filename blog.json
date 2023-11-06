@@ -62,5 +62,14 @@
         "content": "1"
       }
     ]
+  },
+  {
+    "element": "custom",
+    "content": [
+      {
+        "element": "p",
+        "content": "Start typing here..."
+      }
+    ]
   }
 ]
