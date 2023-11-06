@@ -53,5 +53,14 @@
         "content": "Start typing here.........."
       }
     ]
+  },
+  {
+    "element": "custom",
+    "content": [
+      {
+        "element": "p",
+        "content": "1"
+      }
+    ]
   }
 ]
