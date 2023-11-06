@@ -194,5 +194,14 @@
         "content": "Start typing here..."
       }
     ]
+  },
+  {
+    "articleName": "custom",
+    "content": [
+      {
+        "element": "p",
+        "content": "Start typing here..."
+      }
+    ]
   }
 ]
